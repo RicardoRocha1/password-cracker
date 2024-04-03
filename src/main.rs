@@ -1,3 +1,3 @@
 fn main() {
-    println!("Password cracker");
+    println!("Password cracker.");
 }

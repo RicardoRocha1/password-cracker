@@ -50,5 +50,5 @@ fn main() {
         }
         attempts += 1;
     }
-    println!("Not found.\nTry using another password list.");
+    println!("Not found.\nTry using another password list");
 }
